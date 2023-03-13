@@ -1,0 +1,22 @@
+{
+  "name": "phinconbe",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmufid298/phinconbe.git"
+  },
+  "author": "ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmufid298/phinconbe/issues"
+  },
+  "homepage": "https://github.com/mmufid298/phinconbe#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
